@@ -74,19 +74,17 @@ Add evaluation metrics for coherence and diversity.
 Deploy as an API or chatbot for interactive use.
 
 ## Applications :
-Creative Writing – Generate poems, short stories, or fantasy dialogues.
+**Creative Writing –** Generate poems, short stories, or fantasy dialogues.
 
-Education – Teach AI concepts through practical NLP examples.
+**Education –** Teach AI concepts through practical NLP examples.
 
-Chatbots – Build conversational agents with unique personalities.
+**Chatbots –** Build conversational agents with unique personalities.
 
-AI Research – Experiment with fine-tuning techniques and model performance.
+**AI Research –** Experiment with fine-tuning techniques and model performance.
 
+**Marketing & Content Creation –** Automate ad copy or social media captions.
 
-Marketing & Content Creation – Automate ad copy or social media captions.
-
-
-Game Development – Create dynamic storylines or in-game character dialogues.
+**Game Development –** Create dynamic storylines or in-game character dialogues.
 
 ## Limitations :
 Requires a GPU for efficient fine-tuning.
