@@ -18,6 +18,7 @@ By leveraging transfer learning from GPT-2, the model learns the linguistic stru
 ## Introduction :
 Language generation using deep learning has revolutionized the field of Natural Language Processing (NLP). Models like GPT-2 demonstrate that neural networks can learn to predict and generate text that resembles human writing, without explicit rules or templates.
 This project showcases how a pretrained language model can be fine-tuned on a small, domain-specific dataset to adapt its tone, vocabulary, and narrative style.
+
 **Fine-tuning GPT-2 involves:**
 
 Loading a pretrained GPT-2 model.
